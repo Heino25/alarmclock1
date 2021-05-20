@@ -1,0 +1,16 @@
+body {
+    background: darkgray;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    color: darkred;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px, 15px;
+    border-radius: 5px;
+    color: rgb(5, 7, 27);
+}
